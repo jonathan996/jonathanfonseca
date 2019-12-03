@@ -1,0 +1,64 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #202020;
+}
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+.titulos h1{
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+	font: bold;
+	font-family: 'Lato', sans-serif;
+	
+}
+.titulos h1 span{
+	color: #FF9306;
+	font-size: 30px;
+}
+#slide{
+	background-image: url("../img/bg_pic2.jpg")
+}
+#slide h1{
+	text-align: center;
+	color: #333;
+	font-size: 20px;
+}
+#slide p{
+	text-align: center;
+}
+.section{
+	background-image: url("../img/picture2.jpg");
+	background-size: cover;
+}
+.section h1{
+	text-align: center;
+	color: #fff;
+}
+.section p{
+	color: #fff;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
